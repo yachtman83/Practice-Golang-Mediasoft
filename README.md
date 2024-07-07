@@ -22,7 +22,9 @@
 4. Пробег
 5. Количество владельцев
 
-#### Функционал:
+#### Запуск проекта:
+Чтобы установить Go в VScode - [https://learn.microsoft.com/ru-ru/azure/developer/go/configure-visual-studio-code]
 
-Должны быть следующие HTTP-запросы:
-![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/adbb2eb4-0843-4db8-8678-3d303b906a47)
+
+
+
