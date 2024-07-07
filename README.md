@@ -31,7 +31,8 @@
 
 так как я использовал командную строку (cmd) в VScode это Command Promt, чтобы запросы работали корректно, нужно экранизировать кавычки
 
-Пример запроса: 
+Пример запроса:
+
 curl -X POST -d "{\"brand\":\"Subaru\", \"model\":\"Legacy\", \"mileage\":25700, \"owners\":1}" -H "Content-Type: application/json" http://localhost:8000/cars
 
 Создание сущности:
