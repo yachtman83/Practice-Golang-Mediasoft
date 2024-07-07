@@ -29,7 +29,7 @@
 
 Примечание: 
 
-так как я использовал командную строку (cmd) в VScode это Command Promt, чтобы запросы работали корректно, нужно экранизировать кавычки
+Так как я использовал командную строку (cmd) в VScode это Command Promt, чтобы запросы работали корректно, нужно экранизировать кавычки
 
 Пример запроса:
 
@@ -38,6 +38,19 @@ curl -X POST -d "{\"brand\":\"Subaru\", \"model\":\"Legacy\", \"mileage\":25700,
 Создание сущности:
 
 ![Снимок экрана 2024-07-07 163926](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/33ca22b0-ff47-479d-9e5a-019772f23e66)  ![Снимок экрана 2024-07-07 163943](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/ca061154-8906-4e08-84a1-0c84187ea86f)
+
+Получение списка сущностей:
+
+![Снимок экрана 2024-07-07 164352](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/ee5ee08d-77b9-4eda-9c91-1a26de2e6fd5)
+
+Получение одной сущности:
+
+![Снимок экрана 2024-07-07 164443](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/4aca0278-c12e-4ee4-8ec4-2a0edb8bf5c4)
+![Снимок экрана 2024-07-07 164520](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/92d8bde5-131b-40e6-b1ee-3c7103eaf2eb)
+
+
+
+
 
 
 
