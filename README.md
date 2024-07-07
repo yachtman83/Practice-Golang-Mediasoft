@@ -27,6 +27,13 @@
 
 #### Тестирование:
 
+Примечание: 
+
+так как я использовал командную строку (cmd) в VScode это Command Promt, чтобы запросы работали корректно, нужно экранизировать кавычки
+
+Пример запроса: 
+curl -X POST -d "{\"brand\":\"Subaru\", \"model\":\"Legacy\", \"mileage\":25700, \"owners\":1}" -H "Content-Type: application/json" http://localhost:8000/cars
+
 Создание сущности:
 
 ![Снимок экрана 2024-07-07 163926](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/33ca22b0-ff47-479d-9e5a-019772f23e66)  ![Снимок экрана 2024-07-07 163943](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/ca061154-8906-4e08-84a1-0c84187ea86f)
