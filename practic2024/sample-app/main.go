@@ -165,7 +165,6 @@ func deleteCar(w http.ResponseWriter, r *http.Request) {
 func main() {
 	r := mux.NewRouter()
 	cars = append(cars, Car{ID: 1, Brand: "Toyota", Model: "Camry", Mileage: 55000, Owners: 1})
-	//books = append(books, Book{ID: "2", Title: "Преступление и наказание", Author: &Author{Firstname: "Фёдор", Lastname: "Достоевский"}})
 	r.HandleFunc("/cars", getCars).Methods("GET")
 	r.HandleFunc("/cars/{id}", getCar).Methods("GET")
 	r.HandleFunc("/cars", createCar).Methods("POST")
