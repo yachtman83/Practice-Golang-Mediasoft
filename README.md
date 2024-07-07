@@ -35,18 +35,22 @@
 
 curl -X POST -d "{\"brand\":\"Subaru\", \"model\":\"Legacy\", \"mileage\":25700, \"owners\":1}" -H "Content-Type: application/json" http://localhost:8000/cars
 
+
 Создание сущности:
 
 ![Снимок экрана 2024-07-07 163926](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/33ca22b0-ff47-479d-9e5a-019772f23e66)  ![Снимок экрана 2024-07-07 163943](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/ca061154-8906-4e08-84a1-0c84187ea86f)
+
 
 Получение списка сущностей:
 
 ![Снимок экрана 2024-07-07 164352](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/ee5ee08d-77b9-4eda-9c91-1a26de2e6fd5)
 
+
 Получение одной сущности:
 
 ![Снимок экрана 2024-07-07 164443](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/4aca0278-c12e-4ee4-8ec4-2a0edb8bf5c4)
 ![Снимок экрана 2024-07-07 164520](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/92d8bde5-131b-40e6-b1ee-3c7103eaf2eb)
+
 
 Обновление всех полей сущности:
 
@@ -59,6 +63,27 @@ curl -X POST -d "{\"brand\":\"Subaru\", \"model\":\"Legacy\", \"mileage\":25700,
 ![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/09ca695e-a939-41ad-9316-5d7f042cfa4a)
 
 ![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/9ae6f466-d5a2-4690-afe1-0a1903cbad7b)
+
+
+Обновление одного или несколько полей одной сущности:
+
+До обновления:
+
+![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/44119c22-7453-4167-a157-0d42d4ef3744)
+
+После обновления:
+
+![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/3ccbb8d8-6f91-4624-aa62-7ff24e770d4b)
+
+![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/8cd00286-8d0d-48f3-bcf7-385aeec4a38e)
+
+![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/9ff735e0-3391-45c3-84fc-90a116920847)
+
+![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/ecb0eba8-2ae1-4206-859a-54a38c6bfd56)
+
+
+
+
 
 
 
