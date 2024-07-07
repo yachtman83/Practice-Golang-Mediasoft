@@ -48,6 +48,21 @@ curl -X POST -d "{\"brand\":\"Subaru\", \"model\":\"Legacy\", \"mileage\":25700,
 ![Снимок экрана 2024-07-07 164443](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/4aca0278-c12e-4ee4-8ec4-2a0edb8bf5c4)
 ![Снимок экрана 2024-07-07 164520](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/92d8bde5-131b-40e6-b1ee-3c7103eaf2eb)
 
+Обновление всех полей сущности:
+
+До обновления:
+
+![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/145343ac-dbb4-4789-b566-8486d7a59179)
+
+После обновления:
+
+![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/09ca695e-a939-41ad-9316-5d7f042cfa4a)
+
+![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/9ae6f466-d5a2-4690-afe1-0a1903cbad7b)
+
+
+
+
 
 
 
