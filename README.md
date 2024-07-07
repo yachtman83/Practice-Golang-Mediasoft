@@ -82,6 +82,9 @@ curl -X POST -d "{\"brand\":\"Subaru\", \"model\":\"Legacy\", \"mileage\":25700,
 ![image](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/ecb0eba8-2ae1-4206-859a-54a38c6bfd56)
 
 
+Удаление сущности:
+
+
 
 
 
