@@ -37,6 +37,7 @@ curl -X POST -d "{\"brand\":\"Subaru\", \"model\":\"Legacy\", \"mileage\":25700,
 
 
 Создание сущности:
+
 До:
 
 ![Снимок экрана 2024-07-07 161833](https://github.com/yachtman83/Practice-Golang-Mediasoft/assets/80544566/a36d352e-7b46-4db0-b9c8-492b156a67d9)
