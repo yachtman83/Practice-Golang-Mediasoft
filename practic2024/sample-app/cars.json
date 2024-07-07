@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "brand": "BMW",
+    "model": "518",
+    "mileage": 128700,
+    "owners": 3
+  },
+  {
+    "id": 4067,
+    "brand": "Lexus",
+    "model": "Lx470",
+    "mileage": 34180,
+    "owners": 2
+  },
+  {
+    "id": 9117,
+    "brand": "Subaru",
+    "model": "Legacy",
+    "mileage": 25700,
+    "owners": 1
+  }
+]
