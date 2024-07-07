@@ -23,7 +23,7 @@
 5. Количество владельцев
 
 #### Запуск проекта:
-Чтобы установить Go в VScode - [https://learn.microsoft.com/ru-ru/azure/developer/go/configure-visual-studio-code]
+Чтобы установить Go в VScode - [https://learn.microsoft.com/ru-ru/azure/developer/go/configure-visual-studio-code](https://learn.microsoft.com/ru-ru/azure/developer/go/configure-visual-studio-code)
 
 
 
